@@ -42,8 +42,8 @@ A passionate and results-driven Software Engineer with a deep understanding of f
 ### 📊 My GitHub Ecosystem
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Ahmed's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmdMohamed506k&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Ahmed's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmdMohamed506k&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -56,5 +56,5 @@ A passionate and results-driven Software Engineer with a deep understanding of f
 ---
 
 ### 📫 Let's Connect!
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/YOUR_LINKEDIN_URL) 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME.YOUR_GITHUB_USERNAME)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ahmed-mohamed-1710392a5/) 
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=AhmdMohamed506k)
