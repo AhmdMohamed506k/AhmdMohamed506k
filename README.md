@@ -2,7 +2,7 @@
 
 ### Software Engineer | Full-Stack Web Developer | 2025 CS Graduate
 
-A passionate and results-driven Software Engineer with a deep understanding of full-stack architectures. I specialize in building high-performance, real-time applications and scalable systems using modern JavaScript/TypeScript ecosystems.
+A results-driven Software Engineer with a passion for building high-performance, scalable web applications. I specialize in the **MERN Stack** and **NestJS**, with a deep focus on **Data Structures**, **Algorithms**, and **Clean Architecture**. I enjoy solving complex logic puzzles—whether in code or in real-time gaming environments.
 
 ---
 
@@ -20,26 +20,30 @@ A passionate and results-driven Software Engineer with a deep understanding of f
 - **ORMs/ODMs:** `Mongoose` | `Sequelize` 
 - **Real-time & Communication:** ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) `Pusher` | `WebSockets`
 - **APIs:** `RESTful APIs` | `GraphQL` 
-- **Media & Storage:** `Cloudinary` | `Multer` | `File Stream`
+- **Media & Storage:** `Cloudinary` | `Multer`
 
 #### **Software Engineering Concepts** 🧠
-- 🧩 **Algorithms & Data Structures:** Expertise in Linear & Non-linear structures (Trees, Graphs).
-- 🏗 **Architecture:** OOP, SOLID Principles, Clean Architecture, MVC.
-- 📐 **Design Patterns:** Singleton, Factory, Observer, Repository Pattern.
-- 🧪 **Testing & QA:** Unit Testing (Jest), Integration Testing.
-- 🔄 **Methodologies:** Agile, Scrum, CI/CD basics.
+- 🧩 **Algorithms & Data Structures:** Expertise in Linear & Non-linear structures (**Trees**, **Graphs**).
+- 🏗 **Architecture:** OOP, SOLID Principles, Clean Architecture, Design Patterns.
+- 🧪 **Testing & QA:** Unit Testing (**Jest**), Integration Testing.
+- 🔄 **Methodologies:** Agile, Scrum, Git Flow.
 
 ---
 
-### 🌟 Featured Impact Projects
+### 🌟 Featured Projects
 
-* **[Honesty Platform]** - A real-time feedback system utilizing **Node.js**, **Socket.io**, and **Redis** for instant notification delivery, featuring **Spline** for 3D interactions.
-* **[Recruitment Hub]** - A complex job-matching platform built with **GraphQL**, leveraging **Graph & Tree data structures** to optimize candidate-job mapping.
-* **[Cool-CRUD]** - A comprehensive data management system demonstrating **Clean Architecture** and efficient **RESTful API** design.
+* **[Real-Estate Matching System](https://github.com/AhmdMohamed506k/Real-Estate-Matching-System)** - 🏗️ 
+    An intelligent platform bridging seekers and providers. Implemented advanced filtering using **Graph & Tree data structures** to optimize property-matching logic.
+* **[FreshCart E-Commerce](https://github.com/AhmdMohamed506k/FreshCart)** - 🛒
+    Full-featured MERN solution. Features secure auth, dynamic cart, and optimized state management with **React Query**.
+* **[Honesty Platform](https://github.com/AhmdMohamed506k/Honesty-Platform)** - 💬 
+    Real-time feedback engine using **Socket.io** and **Redis** for instant delivery, with an interactive **Spline 3D** UI.
+* **[Cool-CRUD](https://github.com/AhmdMohamed506k/Cool-CRUD)** - ⚡
+    High-performance data tool demonstrating **Clean Architecture** and robust RESTful API design.
 
 ---
 
-### 📊 My GitHub Ecosystem
+### 📊 GitHub Ecosystem
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AhmdMohamed506k&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Ahmed's Stats" />
@@ -48,13 +52,13 @@ A passionate and results-driven Software Engineer with a deep understanding of f
 
 ---
 
-### 🚀 Career Focus & Goals
-- 🔭 **Current Goal:** Preparing for **Google Summer of Code (GSoC) 2026**.
-- 🌱 **Learning:** Advanced System Design and Microservices orchestration.
-- ⚡ **Fun Fact:** I’m an active gamer (Minecraft Hypixel & GTA), which helps me appreciate real-time system performance.
+### 🚀 Professional Focus
+- 🔭 **Targeting:** Google Summer of Code (GSoC) 2026.
+- 🌱 **Learning:** Deep diving into Advanced System Design & Cloud Infrastructure.
+- ⚡ **Fun Fact:** When I'm not coding, you'll find me on Hypixel (Minecraft) or roaming Los Santos (GTA Online).
 
 ---
 
 ### 📫 Let's Connect!
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ahmed-mohamed-1710392a5/) 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=AhmdMohamed506k)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=AhmdMohamed506k.AhmdMohamed506k)
