@@ -17,9 +17,9 @@ A passionate and results-driven Software Engineer with a deep understanding of f
 #### **Backend & Systems Architecture** ⚙️
 - **Frameworks:** ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)
 - **Databases (SQL & NoSQL):** ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white)
-- **ORMs/ODMs:** `Mongoose` | `Sequelize` | `Prisma`
+- **ORMs/ODMs:** `Mongoose` | `Sequelize` 
 - **Real-time & Communication:** ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) `Pusher` | `WebSockets`
-- **APIs:** `RESTful APIs` | `GraphQL` | `Apollo Server`
+- **APIs:** `RESTful APIs` | `GraphQL` 
 - **Media & Storage:** `Cloudinary` | `Multer` | `File Stream`
 
 #### **Software Engineering Concepts** 🧠
