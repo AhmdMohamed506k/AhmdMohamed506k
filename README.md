@@ -49,6 +49,8 @@ A results-driven Software Engineer with a passion for building high-performance,
   <img src="https://github-readme-stats.vercel.app/api?username=AhmdMohamed506k&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Ahmed's Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmdMohamed506k&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
+---
 ---
 
 ### 🚀 Professional Focus
