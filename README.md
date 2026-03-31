@@ -42,14 +42,12 @@ A results-driven Software Engineer with a passion for building high-performance,
     High-performance data tool demonstrating **Clean Architecture** and robust RESTful API design.
 
 ---
-
 ### 📊 GitHub Ecosystem
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmdMohamed506k&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Ahmed's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmdMohamed506k&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=AhmdMohamed506k&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Ahmed's Stats" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=AhmdMohamed506k&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-
 
 ---
 
