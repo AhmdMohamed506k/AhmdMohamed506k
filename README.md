@@ -64,4 +64,4 @@ A results-driven Software Engineer with a passion for building high-performance,
 
 ### 📫 Let's Connect!
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ahmed-mohamed-1710392a5/) 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=AhmdMohamed506k.AhmdMohamed506k)
+![Profile Views](https://komarev.com/ghpvc/?username=AhmdMohamed506k&color=blue)
