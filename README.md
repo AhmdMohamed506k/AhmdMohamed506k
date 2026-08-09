@@ -45,10 +45,9 @@ A results-driven Software Engineer with a passion for building high-performance,
 ### 📊 GitHub Ecosystem
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AhmdMohamed506k&show_icons=true&theme=tokyonight&count_private=true" alt="Ahmed's Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AhmdMohamed506k&show_icons=true&theme=tokyonight" alt="Ahmed's Stats" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AhmdMohamed506k&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmdMohamed506k&theme=tokyonight" alt="GitHub Streak" />
 </p>
