@@ -42,14 +42,16 @@ A results-driven Software Engineer with a passion for building high-performance,
     High-performance data tool demonstrating **Clean Architecture** and robust RESTful API design.
 
 ---
+
 ### 📊 GitHub Ecosystem
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AhmdMohamed506k&show_icons=true&theme=tokyonight" alt="Ahmed's Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AhmdMohamed506k&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmdMohamed506k&show_icons=true&theme=tokyonight&count_private=true" alt="Ahmed's GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmdMohamed506k&layout=compact&theme=tokyonight&hide_progress=true" alt="Top Languages" width="49%" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmdMohamed506k&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmdMohamed506k&theme=tokyonight" alt="GitHub Activity Graph" width="98%" />
 </p>
 
 ---
